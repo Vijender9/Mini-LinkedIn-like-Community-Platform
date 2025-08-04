@@ -1,8 +1,8 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:1000/api",
-   
+  baseURL: "https://mini-linkedin-like-community-platform-wxqv.onrender.com/api",
+    withCredentials: true,
 })
 API.interceptors.request.use((config) => {
   const token = localStorage.getItem("token");

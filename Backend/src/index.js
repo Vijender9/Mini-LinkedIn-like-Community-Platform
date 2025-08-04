@@ -10,7 +10,7 @@ import { DB_NAME } from "./constants.js"
 dotenv.config();
 const app= express();
 app.use(cors({
-    origin:process.env.CORS_ORIGIN,
+    origin:https://your-vercel-domain.vercel.app,
     credentials:true
 }));
 
