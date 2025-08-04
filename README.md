@@ -53,5 +53,9 @@ A full-stack MERN application inspired by LinkedIn. Users can register, log in, 
 - dotenv
 
 ---
+### 🚀 Live Demo
+
+- 🔗 **Frontend:** [Visit Now](https://mini-linked-in-like-comm-git-c60cd2-vijenders-projects-e68981af.vercel.app)
+- 🔗 **Backend API:** [Render API](https://mini-linkedin-like-community-platform-1-1xix.onrender.com)
 
 
